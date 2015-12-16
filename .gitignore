@@ -14,7 +14,6 @@ Thumbs.db
 .Trashes
 
 # Patch/diff artifacts.
-*.patch
 *.diff
 *.orig
 *.rej
