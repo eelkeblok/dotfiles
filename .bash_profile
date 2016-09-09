@@ -1,5 +1,5 @@
 # Add `~/bin` to the `$PATH`
-export PATH="/usr/local/sbin:$HOME/bin:$HOME/.composer/vendor/bin/:$PATH";
+export PATH="./vendor/bin:./node_modules/.bin:/usr/local/sbin:$HOME/bin:$HOME/.composer/vendor/bin/:$PATH";
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
